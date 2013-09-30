@@ -11,6 +11,7 @@ end
 # Use sqlite3 as the database for Active Record
 group :development, :test do
 	gem 'sqlite3'
+	gem 'debugger'
 end
 
 # Use SCSS for stylesheets
